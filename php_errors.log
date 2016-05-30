@@ -1,0 +1,166 @@
+[28-May-2016 00:51:44 UTC] PHP Warning:  require(AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ussd/ussd.php on line 4
+[28-May-2016 00:51:44 UTC] PHP Stack trace:
+[28-May-2016 00:51:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[28-May-2016 00:51:44 UTC] PHP Fatal error:  require(): Failed opening required 'AfricasTalkingGateway.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ussd/ussd.php on line 4
+[28-May-2016 00:51:44 UTC] PHP Stack trace:
+[28-May-2016 00:51:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[28-May-2016 01:48:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 48
+[28-May-2016 01:49:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 48
+[28-May-2016 02:02:01 UTC] PHP Parse error:  syntax error, unexpected '$api_key' (T_VARIABLE) in /home/ubuntu/workspace/ussd/ussd.php on line 18
+[28-May-2016 02:02:33 UTC] PHP Parse error:  syntax error, unexpected '$api_key' (T_VARIABLE) in /home/ubuntu/workspace/ussd/ussd.php on line 18
+[28-May-2016 03:50:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 51
+[28-May-2016 03:52:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 50
+[28-May-2016 03:53:33 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/ubuntu/workspace/ussd/ussd.php on line 51
+[28-May-2016 03:53:37 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/ubuntu/workspace/ussd/ussd.php on line 51
+[28-May-2016 04:08:48 UTC] PHP Warning:  require(ussd/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sms/sms.php on line 2
+[28-May-2016 04:08:48 UTC] PHP Stack trace:
+[28-May-2016 04:08:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 04:08:48 UTC] PHP Fatal error:  require(): Failed opening required 'ussd/AfricasTalkingGateway.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sms/sms.php on line 2
+[28-May-2016 04:08:48 UTC] PHP Stack trace:
+[28-May-2016 04:08:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 04:09:14 UTC] PHP Warning:  require(/ussd/AfricasTalkingGateway.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sms/sms.php on line 2
+[28-May-2016 04:09:14 UTC] PHP Stack trace:
+[28-May-2016 04:09:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 04:09:14 UTC] PHP Fatal error:  require(): Failed opening required '/ussd/AfricasTalkingGateway.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sms/sms.php on line 2
+[28-May-2016 04:09:14 UTC] PHP Stack trace:
+[28-May-2016 04:09:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 04:11:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 57
+[28-May-2016 04:11:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 57
+[28-May-2016 04:12:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 57
+[28-May-2016 04:34:52 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 27
+[28-May-2016 04:34:52 UTC] PHP Stack trace:
+[28-May-2016 04:34:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 04:37:45 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 27
+[28-May-2016 04:37:45 UTC] PHP Stack trace:
+[28-May-2016 04:37:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 07:49:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 108
+[28-May-2016 08:40:16 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 28
+[28-May-2016 08:40:16 UTC] PHP Stack trace:
+[28-May-2016 08:40:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 08:43:58 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 28
+[28-May-2016 08:43:58 UTC] PHP Stack trace:
+[28-May-2016 08:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 08:44:23 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 28
+[28-May-2016 08:44:23 UTC] PHP Stack trace:
+[28-May-2016 08:44:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 08:44:46 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 28
+[28-May-2016 08:44:46 UTC] PHP Stack trace:
+[28-May-2016 08:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 08:51:05 UTC] PHP Fatal error:  Call to a member function sendMessage() on a non-object in /home/ubuntu/workspace/sms/sms.php on line 28
+[28-May-2016 08:51:05 UTC] PHP Stack trace:
+[28-May-2016 08:51:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sms/sms.php:0
+[28-May-2016 10:17:13 UTC] PHP Fatal error:  Call to undefined function write() in /home/ubuntu/workspace/ussd/ussd.php on line 66
+[28-May-2016 10:17:13 UTC] PHP Stack trace:
+[28-May-2016 10:17:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[28-May-2016 14:51:14 UTC] PHP Fatal error:  Call to a member function promptMobilePaymentCheckout() on a non-object in /home/ubuntu/workspace/ussd/mpesa.php on line 24
+[28-May-2016 14:51:14 UTC] PHP Stack trace:
+[28-May-2016 14:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 14:54:12 UTC] PHP Fatal error:  Call to a member function promptMobilePaymentCheckout() on a non-object in /home/ubuntu/workspace/ussd/mpesa.php on line 24
+[28-May-2016 14:54:12 UTC] PHP Stack trace:
+[28-May-2016 14:54:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 14:54:14 UTC] PHP Fatal error:  Call to a member function promptMobilePaymentCheckout() on a non-object in /home/ubuntu/workspace/ussd/mpesa.php on line 24
+[28-May-2016 14:54:14 UTC] PHP Stack trace:
+[28-May-2016 14:54:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 14:56:27 UTC] PHP Fatal error:  Call to a member function promptMobilePaymentCheckout() on a non-object in /home/ubuntu/workspace/ussd/mpesa.php on line 24
+[28-May-2016 14:56:27 UTC] PHP Stack trace:
+[28-May-2016 14:56:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 15:00:15 UTC] PHP Fatal error:  Call to a member function promptMobilePaymentCheckout() on a non-object in /home/ubuntu/workspace/ussd/mpesa.php on line 24
+[28-May-2016 15:00:15 UTC] PHP Stack trace:
+[28-May-2016 15:00:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 15:02:47 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected String as JsString, but got null' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/mpesa.php(24): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254702739804', NULL, 200, Array, 'njerucyrus', '3e27348eec73830...')
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 15:03:41 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected String as JsString, but got null' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/mpesa.php(24): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254702739804', NULL, 200, Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 15:06:24 UTC] PHP Warning:  Missing argument 1 for AfricasTalkingGateway::__construct(), called in /home/ubuntu/workspace/ussd/mpesa.php on line 23 and defined in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 46
+[28-May-2016 15:06:24 UTC] PHP Stack trace:
+[28-May-2016 15:06:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 15:06:24 UTC] PHP   2. AfricasTalkingGateway->__construct() /home/ubuntu/workspace/ussd/mpesa.php:23
+[28-May-2016 15:06:24 UTC] PHP Warning:  Missing argument 2 for AfricasTalkingGateway::__construct(), called in /home/ubuntu/workspace/ussd/mpesa.php on line 23 and defined in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 46
+[28-May-2016 15:06:24 UTC] PHP Stack trace:
+[28-May-2016 15:06:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/mpesa.php:0
+[28-May-2016 15:06:24 UTC] PHP   2. AfricasTalkingGateway->__construct() /home/ubuntu/workspace/ussd/mpesa.php:23
+[28-May-2016 15:06:24 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected String as JsString, but got null' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/mpesa.php(24): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254702739804', NULL, 200, Array, 'njerucyrus', '3e27348eec73830...')
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 15:08:36 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected String as JsString, but got null' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/mpesa.php(24): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254702739804', NULL, 200, Array, 'njerucyrus', '3e27348eec73830...')
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 16:08:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 78
+[28-May-2016 16:10:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 81
+[28-May-2016 16:10:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 81
+[28-May-2016 16:25:53 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'Gateway Error while connecting to the provider' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:311
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/mpesa.php(21): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254702739804', 'KES', 200, Array, 'njerucyrus', '3e27348eec73830...')
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 311
+[28-May-2016 18:41:38 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'Failed Amount less than the minimum single transfer' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:311
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/ussd.php(50): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254703191981', 'KES', 0, Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 311
+[28-May-2016 19:40:55 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected BigDecimal as JsNumber, but got "5000"' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/ussd.php(44): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '.+254705030772', 'KES', '5000', Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 19:42:21 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected BigDecimal as JsNumber, but got "5000"' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/ussd.php(44): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254705030772', 'KES', '5000', Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 19:48:09 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected BigDecimal as JsNumber, but got "1"' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/ussd.php(44): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254705030772', 'KES', '1', Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 19:49:22 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected BigDecimal as JsNumber, but got "500"' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/ussd.php(44): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254705030772', 'KES', '500', Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[28-May-2016 22:05:43 UTC] PHP Fatal error:  Uncaught exception 'AfricasTalkingGatewayException' with message 'The request content was malformed:
+Expected BigDecimal as JsNumber, but got "100"' in /home/ubuntu/workspace/config/AfricasTalkingGateway.php:314
+Stack trace:
+#0 /home/ubuntu/workspace/ussd/ussd.php(44): AfricasTalkingGateway->promptMobilePaymentCheckout('Payment_njerucy...', '+254702739804', 'KES', '100', Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/config/AfricasTalkingGateway.php on line 314
+[29-May-2016 00:41:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/ussd/ussd.php on line 99
+[29-May-2016 00:41:10 UTC] PHP Stack trace:
+[29-May-2016 00:41:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[29-May-2016 00:41:10 UTC] PHP   2. check() /home/ubuntu/workspace/ussd/ussd.php:106
+[29-May-2016 00:41:10 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/ussd/ussd.php:99
+[29-May-2016 00:41:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/ussd/ussd.php on line 100
+[29-May-2016 00:41:10 UTC] PHP Stack trace:
+[29-May-2016 00:41:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[29-May-2016 00:41:10 UTC] PHP   2. check() /home/ubuntu/workspace/ussd/ussd.php:106
+[29-May-2016 00:41:10 UTC] PHP   3. mysqli_num_rows() /home/ubuntu/workspace/ussd/ussd.php:100
+[29-May-2016 00:43:47 UTC] PHP Fatal error:  Call to undefined function check() in /home/ubuntu/workspace/ussd/ussd.php on line 95
+[29-May-2016 00:43:47 UTC] PHP Stack trace:
+[29-May-2016 00:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[29-May-2016 00:45:46 UTC] PHP Fatal error:  Call to undefined function check() in /home/ubuntu/workspace/ussd/ussd.php on line 95
+[29-May-2016 00:45:46 UTC] PHP Stack trace:
+[29-May-2016 00:45:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[29-May-2016 00:47:58 UTC] PHP Fatal error:  Call to undefined function check() in /home/ubuntu/workspace/ussd/ussd.php on line 89
+[29-May-2016 00:47:58 UTC] PHP Stack trace:
+[29-May-2016 00:47:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/ussd/ussd.php:0
+[29-May-2016 01:41:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 65
+[29-May-2016 01:42:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 65
+[29-May-2016 03:28:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/ussd/ussd.php on line 67
